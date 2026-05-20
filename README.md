@@ -1,6 +1,7 @@
 ## Haiii!! -w- 👋 I'm Sweepy (or also known as set399/sweepingattack)! 
 I'm a 16 year old JavaScript developer from Czechia
-I mainly like backend (Node.js) but depending on what I'm working on (if with frameworks like three.js)
+I mainly like backend (Node.js) but depending on what I'm working on (if with frameworks like three.js), I can find frontend pretty fun too ;>
+*I'm also a femboy if that wasn't obvious 🌸*
 
 # 💻 I am currently working on these projects:
 - **2026/10** | 🔫 [LowPolyShot](https://lowpolyshot.alwaysdata.net/) - *3D lightweight First-Person-Shooter meant for short-term playing on low-end devices like school hardware*
